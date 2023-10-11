@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bottom_navigation" type="id">bottom_navigation</item>
+    <item name="Body_container" type="id">Body_container</item>
+    <item name="nav_Like" type="id">nav_Like</item>
+    <item name="nav_Account" type="id">nav_Account</item>
+</resources>
